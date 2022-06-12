@@ -11,3 +11,12 @@ canvas {
   display: block;
   margin: 0 auto;
 }
+
+@media (max-width: 600px) {
+  body {
+    background-image:url(bg_cel.png);
+    background-position: 100% 0%;
+    background-repeat: no-repeat;
+    background-size: 450px 900px;
+  }
+}
