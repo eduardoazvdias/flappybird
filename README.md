@@ -1,5 +1,5 @@
 # Flappy Bird 
-<img align="left" alt="FlappyBird" src="https://images.gamebanana.com/img/ico/sprays/538578b593b47.gif" width="90" height="90">
+<img align="left" alt="FlappyBird" src="https://images.gamebanana.com/img/ico/sprays/538578b593b47.gif" width="90" height="90" a href="https://eduardoazvdias.github.io/flappybird/">
 <br>
 <i>Dedico esse projeto à minha filhota Arya e minha esposa Sara!</i><br><br>
 
