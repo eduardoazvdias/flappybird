@@ -35,20 +35,10 @@ Desenvolvido por <b>Eduardo Dias</b>, o projeto é uma recriação do jogo Flapp
 ##  :video_game: Demo do jogo
 
 <p align="center">
-  <img alt="FlappyBird" title="Tela de inicio" src="./imgs-game/jogo1.png" height=400/>
-  <img alt="FlappyBird" title="Jogando o jogo" src="./imgs-game/jogo2.png" height=400/>
-  <img alt="FlappyBird" title="Tela de Game Over" src="" height=400/>
+  <img alt="FlappyBird" src="./imgs-game/jogo2.PNG" height=400/>
+  <img alt="FlappyBird" src="./imgs-game/jogo1.PNG" height=400/>
 </p><br><br>
 
 <p align="center">
-  
+  <img alt="FlappyBird" src="./imgs-game/gameplay.gif" height=400/>
 </p>
-
-## 🚀 Como rodar a aplicação
-
-Basta clonar o projeto no seu terminal ou baixar o zip completo do projeto, feito isso, abra o index.html e se divirta!
-<i>(boa sorte batendo meu recorde heheheh)</i>
-
-
-
-
