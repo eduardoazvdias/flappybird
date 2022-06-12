@@ -35,8 +35,8 @@ Desenvolvido por <b>Eduardo Dias</b>, o projeto é uma recriação do jogo Flapp
 ##  :video_game: Demo do jogo
 
 <p align="center">
-  <img alt="FlappyBird" title="Tela de inicio" src="" height=400/>
-  <img alt="FlappyBird" title="Jogando o jogo" src="" height=400/>
+  <img alt="FlappyBird" title="Tela de inicio" src="./imgs-game/jogo1.png" height=400/>
+  <img alt="FlappyBird" title="Jogando o jogo" src="./imgs-game/jogo2.png" height=400/>
   <img alt="FlappyBird" title="Tela de Game Over" src="" height=400/>
 </p><br><br>
 
