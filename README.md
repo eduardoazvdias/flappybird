@@ -1,5 +1,5 @@
-# Flappy Bird 
-<img align="left" alt="FlappyBird" src="https://images.gamebanana.com/img/ico/sprays/538578b593b47.gif" width="90" height="90" a href="https://eduardoazvdias.github.io/flappybird/">
+# Flappy Bird
+<img align="left" alt="FlappyBird" src="https://images.gamebanana.com/img/ico/sprays/538578b593b47.gif" width="90" height="90">
 <br>
 <i>Dedico esse projeto à minha filhota Arya e minha esposa Sara!</i><br><br>
 
@@ -35,6 +35,10 @@ Desenvolvido por <b>Eduardo Dias</b>, o projeto é uma recriação do jogo Flapp
 <br>
 
 ##  :video_game: Demo do jogo
+
+<p align="center">
+  :video_game: &nbsp;&nbsp;  <a align="center" href="https://eduardoazvdias.github.io/flappybird/"><i><b>ACESSE O JOGO AQUI</a> &nbsp;&nbsp;   :video_game:</b></i>
+</p>
 
 <p align="center">
   <img alt="FlappyBird" src="./imgs-game/jogo2.PNG" height=400/>
