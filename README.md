@@ -30,6 +30,8 @@ Desenvolvido por <b>Eduardo Dias</b>, o projeto é uma recriação do jogo Flapp
 
 :hammer: Surpresa ao atingir pontuação X.
 
+:hammer: Organização do código em módulos.
+
 <br>
 
 ##  :video_game: Demo do jogo
