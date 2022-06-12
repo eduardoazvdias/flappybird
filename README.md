@@ -16,21 +16,23 @@ Desenvolvido por <b>Eduardo Dias</b>, o projeto é uma recriação do jogo Flapp
 
 ## ⚙ Status:
 
-:heavy_check_mark: Tela de início
+:heavy_check_mark: Tela de início;
  
-:heavy_check_mark: Tela de Game Over
+:heavy_check_mark: Tela de Game Over;
   
-:heavy_check_mark: Efeitos sonoros: colisão, pulo, atravessar obstáculo.
+:heavy_check_mark: Efeitos sonoros: colisão, pulo, atravessar obstáculo;
 
-:heavy_check_mark: Melhor pontuação com medalha.
+:heavy_check_mark: Melhor pontuação com medalha;
 
-:hammer: Seleção de dificuldade
+:hammer: Background responsivo com celular;
 
-:hammer: Seleção de personagem
+:hammer: Seleção de dificuldade;
 
-:hammer: Surpresa ao atingir pontuação X.
+:hammer: Seleção de personagem;
 
-:hammer: Organização do código em módulos.
+:hammer: Surpresa ao atingir pontuação X;
+
+:hammer: Organização do código em módulos;
 
 <br>
 
