@@ -1,0 +1,13 @@
+body {
+  background-image:url(bg.png);
+  background-position: 50% 10%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+canvas {
+  border: 1px solid #000;
+  display: block;
+  margin: 0 auto;
+}
