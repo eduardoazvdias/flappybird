@@ -36,7 +36,7 @@ Desenvolvido por <b>Eduardo Dias</b>, o projeto é uma recriação do jogo Flapp
 
 <br>
 
-##  :video_game: Demo do jogo
+##  :video_game: Demo do jogo:
 
 <p align="center">
   :video_game: &nbsp;&nbsp;  <a align="center" href="https://eduardoazvdias.github.io/flappybird/"><i><b>ACESSE O JOGO AQUI</a> &nbsp;&nbsp;   :video_game:</b></i>
